@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theiweiji.flight-of-the-raven.com/sitemap.xml
